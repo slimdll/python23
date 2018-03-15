@@ -1,7 +1,7 @@
 __author__ = 'Marcos'
 
 # Telegram Python Bot Token API
-telegram_bot_python = '********:***********************'
+telegram_bot_python = '537949933:AAGcSvlIr49Ikr0TS0POL3hvyn34scVqHZ4'
 
 # Telegram SMS Bot Token API
 telegram_bot_sms = '********:***********************'
